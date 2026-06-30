@@ -15,7 +15,7 @@ Welcome to Zyra AI.
 - 🤖 Cross-platform (Android, iPhone, Windows, macOS, Web)
 
 ### Founder
-Muxlisa Tursunqulova
+Dilnoza Tursunqulova
 
 ### Status
 🚧 Under Development
